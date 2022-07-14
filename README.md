@@ -11,3 +11,5 @@ To learn more, see [my profile on Github](https://aih.github.io) or [my blog](ht
 [![Twitter Follow: @arihersh](https://img.shields.io/twitter/follow/arihersh?style=social)](https://twitter.com/arihersh)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aih&count_private=true&show_icons=true&theme=react)
+
+(Thanks to [albertvillanova](https://github.com/albertvillanova) for the template code for stats above!)

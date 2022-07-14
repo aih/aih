@@ -8,4 +8,6 @@ I’m Ari Hershowitz. I work to bring transparency and modern software tools to 
 
 To learn more, see [my profile on Github](https://aih.github.io) or [my blog](https://blog.linkedlegislation.com)
 
+[![Twitter Follow: @arihersh](https://img.shields.io/twitter/follow/arihersh?style=social)](https://twitter.com/arihersh)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aih&count_private=true&show_icons=true&theme=react)

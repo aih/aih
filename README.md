@@ -4,7 +4,7 @@
 
 ### Hi, I'm Ari 👋
 
-I’m Ari Hershowitz. I work to bring transparency and modern software tools to government. I'm a dad, coder, lawyer, biochemist (long ago), and salsa dancer. I work with Python, Go, JS/NodeJs, and I dabble with other languages to get the job done.
+I’m Ari Hershowitz. I work to bring transparency and modern software tools to government. I'm a dad, software architect, coder, lawyer, advocate, and salsa dancer. I work with great people in the U.S. and Ukraine, and when necessary also directly with Python, Go, JS and all of their various frameworks and package managers to get the job done.
 
 To learn more, see [my profile on Github](https://aih.github.io) or [my blog](https://blog.linkedlegislation.com)
 

@@ -1,6 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/aih?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/aih?style=social)
-![Profile views](https://gpvc.arturio.dev/aiha)
 
 ### Hi, I'm Ari 👋
 
